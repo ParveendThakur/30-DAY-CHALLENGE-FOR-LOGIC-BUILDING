@@ -1,4 +1,1 @@
-// //Parveend 
-// // 
-// 30-DAY-CHALLENGE-FOR-LOGIC-BUILDING
-// on Hackerrank 
+// https://www.hackerrank.com/challenges/solve-me-first/problem
